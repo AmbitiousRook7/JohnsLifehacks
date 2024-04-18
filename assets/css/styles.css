@@ -134,6 +134,37 @@ text-align: center;
     width: 100%;
 }
 
+  .form-container {
+    margin-left: 460px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 50px;
+    width: 300px;
+  }
+
+  input[type="email"], input[type="submit"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  input[type="submit"] {
+    background-color: teal;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #005f5f;
+  }
 /* Remove margin from copyright text */
 #copy {
     margin: 0;

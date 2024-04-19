@@ -27,3 +27,6 @@ This project uses code snippets from various sources. All external code has been
 The Lifehacks used in this project were curated from the following:
 - [5-minute hacks](https://www.youtube.com/@5MinuteCraftsYouTube)
 - [Buzzfeed](https://www.buzzfeed.com/uk)
+
+
+![HTML Ratings](https://github.com/AmbitiousRook7/JohnsLifehacks/blob/main/Screenshots/Screenshot%202024-04-18%20at%2023.24.58.png)
